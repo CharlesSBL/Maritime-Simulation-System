@@ -11,35 +11,6 @@ The Maritime Simulation System is a complex, dynamic simulation environment that
 - **Resource Management**: Ports and ships handle essential resources that are crucial for constructing new ships and supporting other operational activities.
 - **Factories and Multifactories**: These facilities are responsible for producing ships, resources, and other infrastructure components necessary for port operations. Multifactories enhance production capabilities and efficiency by supporting multiple factories.
 
-## Getting Started
-
-### Prerequisites
-
-- Java JDK 11 or higher
-- Maven for dependency management
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/maritime-simulation.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd maritime-simulation
-   ```
-3. Compile the project:
-   ```bash
-   mvn compile
-   ```
-
-### Running the Simulation
-
-To start the simulation, execute the following command in the terminal:
-```bash
-mvn exec:java -Dexec.mainClass="com.yourpackage.Main"
-```
-
 ## Documentation
 
 For more detailed documentation, refer to the `docs` folder in the repository.
