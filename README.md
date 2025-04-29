@@ -19,10 +19,6 @@ For more detailed documentation, refer to the `docs` folder in the repository.
 
 Contributions are welcome! Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
 ## Acknowledgments
 
 - Thanks to all contributors who have helped in shaping this project.
